@@ -31,7 +31,7 @@ You can download the YDM application as a `.zip` file directly, even if you don'
 You can also download the latest release of YDM directly:
 
 1. Click on the link below to download the latest release as a `.zip` file:
-   [Download YDM](https://github.com/skhasu/YDM/download/Yummy_Download_Manager_Installer.zip)
+   [Download YDM](https://github.com/skhasu/YDM/Yummy_Download_Manager_Installer.zip)
 
 2. Extract the `Yummy_Download_Manager_Installer.zip` file to your desired location.
 
