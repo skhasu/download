@@ -14,8 +14,7 @@ Yummy Download Manager (YDM) is a powerful and easy-to-use download manager for 
 
 You can download the YDM application as a `.zip` file directly, even if you don't have a GitHub account:
 
-1. Click on the link below to go to the repository's main page:
-   [Yummy Download Manager (YDM) Repository](https://github.com/skhasu/YDM)
+1. Go to the repository's main page: Yummy Download Manager (YDM) Repository
 
 2. On the repository page, look for the green **Code** button at the top right.
 
