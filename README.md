@@ -12,28 +12,20 @@ Yummy Download Manager (YDM) is a powerful and easy-to-use download manager for 
 
 ### Option 1: Download as a .zip file
 
-You can download the YDM application as a `.zip` file directly, even if you don't have a GitHub account:
+You can download the YDM application as a `.exe` file directly, even if you don't have a GitHub account:
 
 1. Go to the repository's main page: Yummy Download Manager (YDM) Repository
 
-2. On the repository page, look for the green **Code** button at the top right.
-
-3. Click the **Code** button, and then select **Download ZIP** from the dropdown menu.
-
-4. Extract the `Yummy_Download_Manager_Installer.zip` file to your desired location.
-
-5. Run the executable `Yummy_Download_Manager_Installer.exe` to start the installation.
+2. Run the executable `Yummy_Download_Manager_Installer.exe` to start the installation.
 
 ### Option 2: Download the Latest Release
 
 You can also download the latest release of YDM directly:
 
-1. Click on the link below to download the latest release as a `.zip` file:
-   [Download YDM](https://github.com/skhasu/download/raw/main/YDM/Yummy_Download_Manager_Installer.zip)
+1. Click on the link below to download the latest release:
+   [Download YDM](https://github.com/skhasu/download/raw/main/YDM/Yummy_Download_Manager_Installer.exe)
 
-2. Extract the `Yummy_Download_Manager_Installer.zip` file to your desired location.
-
-3. Run the executable `Yummy_Download_Manager_Installer.exe` to start the installation.
+2Run the executable `Yummy_Download_Manager_Installer.exe` to start the installation.
 
 ## Usage
 
