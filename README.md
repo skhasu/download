@@ -23,7 +23,7 @@ You can download the YDM application as a `.exe` file directly, even if you don'
 You can also download the latest release of YDM directly:
 
 1. Click on the link below to download the latest release:
-   [Download YDM](https://github.com/skhasu/download/raw/main/YDM/Yummy_Download_Manager_Installer.exe)
+   [Download YDM](https://github.com/skhasu/download/releases/download/v1.0.0/Yummy_Download_Manager_Installer.exe)
 
 2Run the executable `Yummy_Download_Manager_Installer.exe` to start the installation.
 
